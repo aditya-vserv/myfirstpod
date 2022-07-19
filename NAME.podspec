@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'NAME'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'Whats in a name By William Shakespeare.'
   s.description      = "The is my first ever pod release on GitHub"
   s.homepage         = 'https://github.com/aditya-vserv/myfirstpod'
