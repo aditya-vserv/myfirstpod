@@ -1,8 +1,8 @@
 Pod::Spec.new do |s|
   s.name             = 'NAME'
   s.version          = '0.1.0'
-  s.summary          = 'Whats in a naam By William Shakespeare.'
-  s.description      = "The is my first ever release for pod release on GitHub"
+  s.summary          = 'Whats in a name By William Shakespeare.'
+  s.description      = "The is my first ever pod release on GitHub"
   s.homepage         = 'https://github.com/aditya-vserv/myfirstpod'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'aditya-vserv' => 'aditya.s@vserv.com' }
